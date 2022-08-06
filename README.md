@@ -10,3 +10,5 @@ https://cmdgenerator.phphe.com/cmd-generators/ffmpeg/
 https://alfg.dev/ffmpeg-commander/
 https://hls-js.netlify.app/demo/
 https://linux.die.net/man/1/ffmpeg
+
+https://dev.to/nathankurz91
