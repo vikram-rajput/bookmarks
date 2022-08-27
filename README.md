@@ -16,3 +16,7 @@ https://dev.to/nathankurz91
 
 anna-hcj
 
+
+https://github.com/Lilybon/leetcode/tree/master/src
+https://web.dev/
+https://developer.mozilla.org/en-US/
